@@ -38,3 +38,20 @@ FOR DECRYPTNG MA FILE :
 python "C:\Users\mariy\OneDrive\Documents\internship\codtech\advanced encryption tool with AES-256.py" decrypt "C:\Users\mariy\encrypted.aes" "C:\Users\mariy\OneDrive\Documents\internship\codtech\output.txt" -p "2007"
 
 # OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/695fbb0c-b45e-45e5-98a3-bce2178d33a4)
+
+
+![Image](https://github.com/user-attachments/assets/ae888def-325d-4535-a52f-15f6fa0f32f5)
+
+
+![Image](https://github.com/user-attachments/assets/a1f6fe9f-9ed5-4b3d-83e8-69a0572b4a9b)
+
+
+![Image](https://github.com/user-attachments/assets/c85c347a-44b5-475e-a680-ffa4d2153068)
+
+
+![Image](https://github.com/user-attachments/assets/3dcf4d25-f174-42c1-8b01-3ab207f66039)
+
+
+![Image](https://github.com/user-attachments/assets/1367933d-f32b-45c3-be91-1a166d21dcb4)
