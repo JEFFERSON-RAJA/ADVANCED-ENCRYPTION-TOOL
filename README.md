@@ -39,7 +39,7 @@ python "C:\Users\mariy\OneDrive\Documents\internship\codtech\advanced encryption
 
 # OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/695fbb0c-b45e-45e5-98a3-bce2178d33a4)
+![Image](https://github.com/user-attachments/assets/7a3bd132-116f-46c7-8bde-6de5cf3a9b05)
 
 
 ![Image](https://github.com/user-attachments/assets/ae888def-325d-4535-a52f-15f6fa0f32f5)
@@ -51,7 +51,7 @@ python "C:\Users\mariy\OneDrive\Documents\internship\codtech\advanced encryption
 ![Image](https://github.com/user-attachments/assets/c85c347a-44b5-475e-a680-ffa4d2153068)
 
 
-![Image](https://github.com/user-attachments/assets/3dcf4d25-f174-42c1-8b01-3ab207f66039)
+![Image](https://github.com/user-attachments/assets/ba872687-4399-420f-ad96-377cd140da3e)
 
 
 ![Image](https://github.com/user-attachments/assets/1367933d-f32b-45c3-be91-1a166d21dcb4)
