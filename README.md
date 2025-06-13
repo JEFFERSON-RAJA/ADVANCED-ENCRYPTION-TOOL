@@ -16,11 +16,17 @@ A secure Python script for encrypting and decrypting files using AES-256-CBC wit
 
 Features
 AES-256-CBC Encryption – Military-grade encryption with random salts and IVs.
+
 PBKDF2 Key Derivation – Uses 210,000 iterations for brute-force resistance.
+
 HMAC-SHA256 Verification – Detects file corruption or tampering.
+
 Chunked Processing – Handles large files efficiently (1MB chunks).
+
 Secure Password Handling – Optional hidden input to avoid command-line exposure.
+
 Error Resilience – Automatically cleans up incomplete outputs on failure.
+
 
 COMMANDS USED IN CMD/POWERSHELL :
 
