@@ -14,7 +14,8 @@ DESCRIPTION :
 
 A secure Python script for encrypting and decrypting files using AES-256-CBC with HMAC-SHA256 integrity verification. Designed for protecting sensitive data with strong cryptographic standards, this tool ensures confidentiality and detects tampering.
 
-Features
+FEATURES
+
 AES-256-CBC Encryption – Military-grade encryption with random salts and IVs.
 
 PBKDF2 Key Derivation – Uses 210,000 iterations for brute-force resistance.
